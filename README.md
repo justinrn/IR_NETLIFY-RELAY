@@ -161,19 +161,11 @@
 
   
 
-https://reymit.ir/amirshaker
+ https://donatonion.ir-netlify.workers.dev
 
   
 
-Solana:
 
-  
-
-```txt
-
-E7S8EBUE5tkY5UaTgDvhaanJMeCi2DxPGYZukJGrJV8J
-
-```
 
   
 
@@ -203,7 +195,7 @@ https://t.me/avaco_cloud
 
 ```txt
 
-t.me/IR_NETLIFY
+https://t.me/IR_NETLIFY?direct
 
 ```
 
